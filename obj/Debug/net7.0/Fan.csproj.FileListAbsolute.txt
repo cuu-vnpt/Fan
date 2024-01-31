@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Fan/bin/Debug/net7.0/Fan
+/Users/macos/Desktop/Operator/Fan/bin/Debug/net7.0/Fan.deps.json
+/Users/macos/Desktop/Operator/Fan/bin/Debug/net7.0/Fan.runtimeconfig.json
+/Users/macos/Desktop/Operator/Fan/bin/Debug/net7.0/Fan.dll
+/Users/macos/Desktop/Operator/Fan/bin/Debug/net7.0/Fan.pdb
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.dll
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/refint/Fan.dll
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.pdb
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/Fan.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Fan/obj/Debug/net7.0/ref/Fan.dll
